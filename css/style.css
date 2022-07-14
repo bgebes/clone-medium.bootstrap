@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+
+.font-serif {
+  font-family: "PT Serif", serif;
+}
+
+.font-large {
+  font-size: 106px;
+}
+
+.font-dark {
+  color: black;
+}
+
+.border-bottom-dark {
+  border-bottom: 1px solid rgb(41, 41, 41);
+}
+
+.bg-medium-navbar {
+  background-color: #ffc017;
+}
+
+ul[class="navbar-nav ms-auto"] > li {
+  margin-left: 0.5vw;
+}
